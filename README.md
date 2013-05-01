@@ -21,6 +21,6 @@ Source: The data source to query against. May be an array of strings or a functi
 
 Items: The max number of items to display in the dropdown.
 
-Select: The select list to display the filtered results
+Select: The select list id to display the filtered results
 
 Unmatched: The phrase to display in the select list when there are no matches
